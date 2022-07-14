@@ -388,10 +388,10 @@ def follow(ses,coki):
 	ses.get(('https://mbasic.facebook.com' + str(get)), cookies={'cookie': coki}).text
 
 logo = ("""\033[1;32m
-__ __ _   __  _ _  _  _  _ _  
-\ V // \ / _|| U || || |/// \ 
- \ /| o |\_ \|   || ||  (| o |
- |_||_n_||__/|_n_||_||_|\\_n_|
+__ __ _   __  _ _  _  _  _    _  
+\ V // \ / _|| U || || |//  /   \ 
+ \ /| o |\_ \|   || ||  (  |  o  |
+ |_||_n_||__/|_n_||_||_|\\ |_ n _|
                                                        \033
 __________________×______________________
   TOOL UPDATE AGAIN BY BINDASS_YASHIKA...
@@ -411,7 +411,7 @@ INSTAGRAM  : Official_NASHA_03...BINDASH_YASHIKA
  Facebook  :  YASHIKA_SARANG..⭐⭐⭐⭐⭐ 
 
   TEAM     : TRUSTED HEART SHUTERS
-
+ Contact   : +919050966900
  MAJID_KHAN_X_Ali_Jutt
 
 __________________×______________________\033[1;37m""")
